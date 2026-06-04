@@ -387,8 +387,6 @@ html {
 .redes a:hover {
     opacity: 0.8;
 }
-
-/* Formulário */
 .contato-form {
     background-color: var(--cor-background);
     border-radius: 12px;
@@ -461,18 +459,12 @@ html {
 .btn-enviar:hover {
     opacity: 0.85;
 }
-
-
-/* ══════════════════════════════
-   RODAPÉ
-══════════════════════════════ */
 .rodape {
     background-color: var(--cor-background);
     padding: 20px 5%;
     text-align: center;
     border-top: 2px solid var(--cor-principal);
 }
-
 .rodape p {
     font-family: "Montserrat", sans-serif;
     font-size: 0.8rem;
